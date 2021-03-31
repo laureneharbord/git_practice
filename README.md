@@ -2,9 +2,9 @@
 ### A simple random message generator created with JavaScript
 
 ## Table of contents 
-+ [General Info] (#general-info)
-+ [Technologies] (#technologies)
-+ [Setup] (#setup)
++ [General Info] (#General-Info)
++ [Technologies] (#Technologies)
++ [Setup] (#Setup)
 
 ## General Info
 The aim of this project was to combine previous learning to plan and execute a simple random message generator, while using Git and GitHub to track changes. 
