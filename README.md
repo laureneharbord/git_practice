@@ -20,5 +20,5 @@ This project was created with:
 ##  Setup 
 To run this project: download the messageGenerator directory locally, access the messageGenerator directory in the terminal, and run node script.js as desired to recieve a random horoscope
 ```
-$ cd messageGenerator
+$ cd 'local directory'
 $ node messageGenerator.js
